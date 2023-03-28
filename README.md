@@ -1,6 +1,6 @@
 # bisection-minimisation
 
-A program written in Julia for a minimisation problem using bisection
+A program written in Julia for solving minimisation problems using bisection
 
 ```Algorithm```
 
