@@ -13,3 +13,7 @@ It returns the approximate solution x and number of iterations.
 To run the program easily, you might want to check out the online Julia compiler and interpreter by [Replit](https://replit.com/new/julia).
 
 To visualise the algorithm at work, one can perhaps keep track of the points visited when running the program and plot them on the graph of the objective function.
+
+<img width="447" alt="Screenshot 2023-03-28 at 12 16 47 PM" src="https://user-images.githubusercontent.com/95064358/228189705-4a0c5c0e-e131-4a20-871a-48f8571d75be.png">
+
+<img width="656" alt="Screenshot 2023-03-28 at 12 16 29 PM" src="https://user-images.githubusercontent.com/95064358/228189712-5ba4ccad-9860-4663-8191-e3bfa898049a.png">
