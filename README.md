@@ -11,3 +11,5 @@ The program takes in four arguments: the first derivative of the objective funct
 It returns the approximate solution x and number of iterations.
 
 To run the program easily, you might want to check out the online Julia compiler and interpreter by [Replit](https://replit.com/new/julia).
+
+To visualise the algorithm at work, one can perhaps keep track of the points visited when running the program and plot them on the graph of the objective function.
