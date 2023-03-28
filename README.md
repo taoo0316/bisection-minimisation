@@ -8,7 +8,7 @@ A program written in Julia for a minimisation problem using bisection.
 
 The program takes in four arguments: the first derivative of the objective function, the lower bound, the upper bound and the error tolerance.
 
-It returns the approximate solution x and number of iterations.
+It returns the approximate solution x and the number of iterations.
 
 To run the program easily, you might want to check out the online Julia compiler and interpreter by [Replit](https://replit.com/new/julia).
 
@@ -18,4 +18,4 @@ To visualise the algorithm at work, one can perhaps keep track of the points vis
 
 <img width="656" alt="Screenshot 2023-03-28 at 12 16 29 PM" src="https://user-images.githubusercontent.com/95064358/228189712-5ba4ccad-9860-4663-8191-e3bfa898049a.png">
 
-These are created using Desmos, keep tracking of all 15 iterations of the program.
+These are created using Desmos, keeping track of all 15 iterations of the program.
