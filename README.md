@@ -12,12 +12,11 @@ It returns the approximate solution x and the number of iterations.
 
 To run the program easily, you might want to check out the online Julia compiler and interpreter by [Replit](https://replit.com/new/julia).
 
-Alternatively, run *julia main.jl* from the terminal. The results are printed as follows: 
+Alternatively, run ```julia main.jl``` from the terminal. The results are printed as follows: 
 
 ```
 The approximate minimal point of the function is x ≈ 2.0786
 The bisection method took 15 iterations.
-
 ```
 
 To visualise the algorithm at work, one can perhaps keep track of the points visited when running the program (use print statements to log the x value for each iteration) and plot them on the graph of the objective function. 
